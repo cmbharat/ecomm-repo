@@ -1,50 +1,49 @@
 {
-  "products": [
-{
-                    id:1,
-                    title:'Mobile',
-                    price:'5000',
-                    image:'...'
-                },
-				
-{
-                    id:2,
-                    title:'TV',
-                    price:'65000',
-                    image:'...'
-                },
-{
-                    id:3,
-                    title:'Refrigerator',
-                    price:'15000',
-                    image:'...'
-                },
-{
-                    id:4,
-                    title:'Microwave Oven',
-                    price:'15000',
-                    image:'...'
-                },
-{
-                    id:5,
-                    title:'Mixer',
-                    price:'10000',
-                    image:'...'
-                },
-{
-                    id:6,
-                    title:'Macbook',
-                    price:'85000',
-                    image:'...'
-                },
-{
-                    id:7,
-                    title:'Ipad',
-                    price:'35000',
-                    image:'...'
-                },
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "products":[
+      {
+         "id":1,
+         "title":"Mobile",
+         "price":"5000",
+         "image":"..."
+      },
+      {
+         "id":2,
+         "title":"TV",
+         "price":"65000",
+         "image":"..."
+      },
+      {
+         "id":3,
+         "title":"Refrigerator",
+         "price":"15000",
+         "image":"..."
+      },
+      {
+         "id":4,
+         "title":"Microwave Oven",
+         "price":"15000",
+         "image":"..."
+      },
+      {
+         "id":5,
+         "title":"Mixer",
+         "price":"10000",
+         "image":"..."
+      },
+      {
+         "id":6,
+         "title":"Macbook",
+         "price":"85000",
+         "image":"..."
+      },
+      {
+         "id":7,
+         "title":"Ipad",
+         "price":"35000",
+         "image":"..."
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
 }
